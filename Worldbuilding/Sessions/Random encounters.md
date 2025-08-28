@@ -3,7 +3,7 @@
 ### 1. **The Wayward Pilgrims**
 
 - A group of tired pilgrims traveling the opposite way.
-- They carry symbols of **Nerathis, god of rivers & journeys**, and are headed to a holy site far to the North.
+- They carry symbols of **[[Veyra]], god of water & cycles**, and are headed to a holy site far to the North.
 - They’re friendly, offering blessings, but also desperate for food or protection.
 - **Twist:** If the PCs gain their trust, the pilgrims share rumors: _“Some say the gods-- stir again… not all whispers are false.”_
 ---
@@ -39,16 +39,13 @@
 ### 5. **[[The Dancer’s Clearing]]**
 
 At night, spectral figures dance silently around a bonfire that isn’t there.
-
 - Anyone joining the dance wakes with sore feet but inspiration.
 --- 
 ### 6. **The Moonlit Beast**
-
 - On the second night of travel, a huge shadowy beast circles the camp but never attacks.
 - Locals later claim it’s a **guardian spirit** — or a curse.
 - If pursued, the beast leaves behind tracks that lead to an ancient ruin.
 ### 7. **The Wandering Tower**
-
 - On the horizon, a massive stone tower seems to move slowly across the plains.
 - Locals whisper it belongs to a wandering wizard or an ancient construct.
 - PCs might chase after it — or find that it vanishes like a mirage.
@@ -91,7 +88,6 @@ At night, spectral figures dance silently around a bonfire that isn’t there.
 ### 15. **The Lamenting Statue**
 
 - A weathered statue of a weeping woman sits by the road.
-    
 - Her face changes subtly each day: grief, rage, terror, relief.
 ### 16. **The Shattered Bell**
 
@@ -119,11 +115,14 @@ At night, spectral figures dance silently around a bonfire that isn’t there.
 
 A massive beehive hangs from an old oak, dripping with honey that glows faintly at night.
 - Eating it restores vitality… but also gives buzzing dreams.
+- The PC who ate it will fail it's next Long rest.
 ### 20. **[[The Golden Stag]]**
 
 A majestic stag with golden antlers crosses the party’s path.
 - Hunters believe it’s sacred — to kill it brings curses.
+	- [[Alexander Vardheim]]: DC 12 History or Nature. if hit he will recall the other Hunters from his village talking about [[The Golden Stag]] and how it should not be messed with.
 - If they try and kill it it will run away and they will hear someone try to stop them.
+	- The person trying to stop them has been tracking the Stag for years.
 # **Later possibilities**
 ### 1. **The Broken Sky**
 
