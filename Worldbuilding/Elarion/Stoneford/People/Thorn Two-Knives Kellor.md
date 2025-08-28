@@ -1,0 +1,4 @@
+- **Race:** Human, 28
+- **Occupation:** Smuggler & Bandit contact
+- **Appearance:** Lean, wiry, dark hair always falling into his eyes, often chewing a reed.
+- **Notes:** Runs goods for the [[The]] Has ties to shady traders in [[Greymoor]].

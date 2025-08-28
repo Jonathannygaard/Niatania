@@ -1,0 +1,4 @@
+- **Race/Age:** Human, 31
+- **Occupation:** Information broker & spy
+- **Appearance:** Thin, hunched, one ear shredded, always chewing dried apple slices.
+- **Notes:** Paranoid, cowardly, but knows everyone’s secrets.

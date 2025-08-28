@@ -1,0 +1,2 @@
+The time of independence started with [[Banishment day]]. 
+The time of independence started with war. This is a reason why there are limited information on the continent [[Drekhmir]]. Here the Evil [[Gods]] were able to corrupt a lot of the population and after [[Banishment day]] they have stayed at war with the other two continents.

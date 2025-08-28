@@ -1,0 +1,4 @@
+- **Race:** Human, 52
+- **Occupation:** Town Warden (military commander + governor) 
+- **Appearance:** Broad-shouldered, grey beard, scarred cheek, wears a weathered breastplate with the crest of [[Stoneford]].
+- **Notes:** Stern but fair. Distrusts [[Greymoor]]’s politics. Believes strength and discipline keep the town alive.

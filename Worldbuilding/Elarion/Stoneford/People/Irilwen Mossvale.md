@@ -1,0 +1,4 @@
+- **Race:** Half-Elf, 33
+- **Occupation:** Herbalist and apothecary
+- **Appearance:** Slender, pale-green eyes, usually with smudges of dirt or plant stains on her hands.
+- **Notes:** Soft-spoken but observant. Some whisper her remedies are too “uncanny” to be purely herbal.

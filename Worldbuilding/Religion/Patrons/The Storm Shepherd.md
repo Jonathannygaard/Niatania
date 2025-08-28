@@ -1,0 +1,4 @@
+- A cloaked wanderer guides a thunderstorm along the horizon, shepherding lightning with a staff.
+- They may offer protection… or demand tribute to keep the storm from hitting the PCs.
+- Immune to all damage as it just fazes through them.
+- Will attack anyone who tries

@@ -1,0 +1,4 @@
+- **Race/Age:** Elf, 212
+- **Occupation:** Priestess of the Dawnmother (local temple)
+- **Appearance:** Tall, serene, pale hair, sun-etched staff.
+- **Notes:** Voice of morality in the city. Beginning to notice the Shroud’s creeping influence.

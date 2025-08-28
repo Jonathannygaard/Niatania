@@ -1,0 +1,4 @@
+- **Race/Age:** Human, 46
+- **Occupation:** Captain of the City Watch (corrupt)
+- **Appearance:** Broad-shouldered, peppered beard, wears guard armor with a crimson scarf tucked beneath.
+- **Notes:** Calm and pragmatic. Keeps order in public, looks away in private.

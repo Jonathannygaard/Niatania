@@ -1,0 +1,4 @@
+- **Race/Age:** Half-Elf, 33
+- **Occupation:** Tavern owner (front for Shroud activity)
+- **Appearance:** Sleek auburn hair, sly grin, nimble build. Always has at least one dagger hidden.
+- **Notes:** Charming, witty, and dangerous. Runs the gambling and tavern networks.

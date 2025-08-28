@@ -1,0 +1,3 @@
+Human, age 34
+
+As the first born she should be the next for the throne, however tradition states it should be the first born son. Seloue is a dedicated woman with the best interest of the people of [[Erysia]] and [[Niatania]]. She is very knowledgeable and have spent most of her life learning [[politics]], [[religions]] and other things to get closer to her people to be as best of a leader as she could.

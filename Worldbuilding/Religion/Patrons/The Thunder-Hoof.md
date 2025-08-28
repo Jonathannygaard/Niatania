@@ -1,0 +1,1 @@
+![[20250826_2142_Storm Cloud Stag_simple_compose_01k3kyb1xbe8nb689qwxkatr33.png]]

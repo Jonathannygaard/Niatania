@@ -1,0 +1,4 @@
+- **Race/Age:** Tiefling, 29
+- **Occupation:** Fence & smuggler
+- **Appearance:** Dark hair, curling horns, glowing amber eyes, fine-but-faded silks.
+- **Notes:** Smooth talker. Handles contraband flowing between [[Greymoor]] and Erysia.

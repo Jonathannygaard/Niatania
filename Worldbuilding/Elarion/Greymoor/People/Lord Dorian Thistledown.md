@@ -1,0 +1,4 @@
+- **Race/Age:** Halfling, 58
+- **Occupation:** Governor of [[Greymoor]]
+- **Appearance:** Round, balding, twinkling eyes, expensive waistcoats.
+- **Notes:** Jovial in public, worried in private. Tries to balance city prosperity with Shroud influence.

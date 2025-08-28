@@ -1,0 +1,1 @@
+Mornladuhr is the biggest [[Dwarves|dwarven]] village in [[Elarion]]. It is the capital of the [[Dwarves|dwarven]] lands and has  the biggest [[Drakenshard]] mine known.  

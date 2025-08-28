@@ -1,0 +1,4 @@
+- **Race/Age:** Dwarf, 145
+- **Occupation:** Smith & Guildmaster of the Ironworks
+- **Appearance:** Stocky, soot-stained braids, always wears leather apron.
+- **Notes:** Respected leader of the artisans’ guild. Strong stance against Shroud corruption, but under pressure.

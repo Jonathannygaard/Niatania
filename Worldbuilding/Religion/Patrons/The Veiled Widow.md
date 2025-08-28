@@ -1,0 +1,1 @@
+![[20250826_2139_Mysterious Veiled Figure_simple_compose_01k3ky5bh5f6jvtzk92j7zp8fz.png]]

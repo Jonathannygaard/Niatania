@@ -1,0 +1,7 @@
+After ruling over [[Niatania]] for a long time some of the [[Gods]] wanted more. They looked at the population of [[Niatania]] as their possession and wanted to do whatever they wanted with them. These are now referred to as the Evil [[Gods]]. They started corrupting people of the world, they started riots and wars for their own amusement. The other [[Gods]] (Good [[Gods]]) all disagreed with them and wanted the population to thrive on their own. They wanted to help the people living there and looked at the world more as a child then a possession.
+
+This disagreement started a war between the [[Gods]]. The war wreaked havoc upon the world and many people lost their lives. The Evil [[Gods]] tricked parts of the population and manipulated them to begin wars among themselves.
+
+The Good [[Gods]] wanted the best for the population and together with some of the leaders of the different races and the strongest with the arcane they helped the population banish all [[Gods]] from their world. Through a complicated and powerful ritual they managed to rid the world of [[Gods]]. The war slowly ended and the only sign of the [[Gods]] were divine beings.
+
+The day the [[Gods]] were banished is now known as Banishment day and the years of [[Niatania]] is measured from that day. The year now is 1530 TOI (time of independence).

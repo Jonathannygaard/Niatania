@@ -1,0 +1,4 @@
+- **Race/Age:** Human, 26
+- **Occupation:** Traveling minstrel, sometimes Crimson Shroud informant
+- **Appearance:** Bright eyes, shaggy hair, carries a lute with carvings of foxes.
+- **Notes:** Friendly to strangers, but sells songs and secrets alike.

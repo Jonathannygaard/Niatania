@@ -1,0 +1,1 @@
+![[20250826_2135_Floating Iron Helm_simple_compose_01k3ky03cvfv7rbnwzmx8fgnnr.png]]

@@ -1,0 +1,1 @@
+When you drink this cider you you take 1d4 Fire damage and for the next 30 minutes are unable to speak. Every time you physically attack you deal an additional 1d4 Fire damage to the foe and you have resistance to fire. 

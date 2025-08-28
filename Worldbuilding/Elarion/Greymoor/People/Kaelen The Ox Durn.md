@@ -1,0 +1,4 @@
+- **Race/Age:** Half-Orc, 38
+- **Occupation:** Shroud enforcer & pit-fighter
+- **Appearance:** Towering, scar across jaw, one tusk broken. Wears a dented iron gorget for luck.
+- **Notes:** Brutal but loyal. Settles disputes with fists.

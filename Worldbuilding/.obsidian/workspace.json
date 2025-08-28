@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7b738da402cca1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9c58d55a389eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "805a2eecbd92dd47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Random encounters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random encounters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650aa4f5185e1e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67caf3234bd3745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6c81f33e7372bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f222c8160540d6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b207c482eb93bb2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4219423340cfe48",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ceb0701dea5eafc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5ac3462cd6e92a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/Random encounters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Random encounters"
+            }
+          },
+          {
+            "id": "9521537ba6b84606",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Erysia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Erysia"
+            }
+          },
+          {
+            "id": "f142ead875757df7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2aa4b515bcbae38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "805a2eecbd92dd47",
+  "lastOpenFiles": [
+    "Religion/Anomalies/The Old Battlefield.md",
+    "Sessions/Random encounters.md",
+    "Sessions/Session 2.md",
+    "Religion/Anomalies/The Dancer’s Clearing.md",
+    "Religion/Gods/Althira.md",
+    "Religion/Patrons/The Dawnmother’s Flame.md",
+    "Sessions/Session 1.md",
+    "The time of the independence.md",
+    "History.md",
+    "Niatania.md",
+    "Banishment day.md",
+    "Religion/Anomalies/Anomalies.md",
+    "Religion/Anomalies/The Golden Stag.md",
+    "Religion/Anomalies/The Amber Hive.md",
+    "20250827_0330_Smiling Halfling in Gold_simple_compose_01k3mj5tyhe0xvfd3dykak1dm6.png",
+    "Religion/Patrons/The Storm Shepherd.md",
+    "Religion/Annomalies/Untitled",
+    "Religion/Anomalies",
+    "Untitled",
+    "Religion/Anomalies/The Ever-Burning Candle.md",
+    "Nature/Creatures/Adult White Dragon.md",
+    "Nature/Creatures",
+    "Nature",
+    "Pasted image 20250828030824.png",
+    "Pasted image 20250828030811.png",
+    "Pasted image 20250828030737.png",
+    "Pasted image 20250828030302.png",
+    "Religion/Gods/Thaldrun.md",
+    "Sessions/Session 3.md",
+    "Religion/Gods/Veyra.md",
+    "Religion/Gods/Caelthar.md",
+    "Religion/Gods/Erythar.md",
+    "Religion/Gods/Maltrix.md",
+    "Religion/Gods/Nyssira.md",
+    "Religion/Gods/Selanna.md",
+    "Cults and factions/The Crimson Shroud/The Crimson Shroud.md",
+    "20250827_1453_Weathered Dwarf Miner_simple_compose_01k3nsbbvmfe8rwdmxzc73mchk.png",
+    "Elarion/Greymoor/People",
+    "Elarion/Stoneford/People",
+    "Pasted image 20250827040953.png",
+    "20250827_0335_Elder Dwarven Matriarch_simple_compose_01k3mjjgg9f5wsk7k2x92tz1mr.png",
+    "Religion/Patrons",
+    "Religion/Gods",
+    "Pictures/20250826_2146_Water Spirit Enchantment_simple_compose_01k3kykmxxefma9vtqn1jt9kv8.png",
+    "Elarion",
+    "Pictures/b9dea8a9-4499-42cc-ac4c-6ec242dd157b.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
