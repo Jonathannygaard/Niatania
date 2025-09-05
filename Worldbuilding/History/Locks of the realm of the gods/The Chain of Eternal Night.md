@@ -1,0 +1,7 @@
+- **Type:** A black chain that seems to absorb light around it.
+- **Powers:** Binds divine beings, prevents resurrection, and suppresses celestial magic.
+- **Plot Hooks:**
+    - Creatures of the night are restless; legends say the chain hums when used.
+    - Someone wants to steal the chain to bind a god temporarily and demand impossible favors.
+- **Area Description:** Pitch-black tunnels with jagged obsidian walls; bioluminescent fungi are the only light source.
+- **Owned by [[The Order of the Night]]

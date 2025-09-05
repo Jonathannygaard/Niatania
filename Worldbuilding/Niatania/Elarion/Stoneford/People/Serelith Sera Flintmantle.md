@@ -1,4 +1,4 @@
-![[20250827_0335_Elder Dwarven Matriarch_simple_compose_01k3mjjgg9f5wsk7k2x92tz1mr.png]]
+![[20250828_1646_Stocky Dwarven Blacksmith_simple_compose_01k3rj6f8ge8prn3nat4bck82j.png]]
 - **Race:** Dwarf, 121
 - **Occupation:** Mason Guildmistress
 - **Appearance:** Stocky, soot-streaked, copper braids bound with iron rings.

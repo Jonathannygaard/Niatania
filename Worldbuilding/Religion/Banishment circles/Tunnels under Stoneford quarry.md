@@ -1,0 +1,1 @@
+Far under the quarry down through old tunnels from [[Banishment day]] lie the circle. 

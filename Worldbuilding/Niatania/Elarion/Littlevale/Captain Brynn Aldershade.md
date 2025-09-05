@@ -12,7 +12,7 @@
 
 ## Aftermath in the village
 
-Brynn was devastated after the attack. She felt like she let the whole village down allowing this to happen under her leadership. She became obsessed with finding a way to  protect the village and together with [[Sister Calvine Mossroot|Sister Calvine]] they went into the tunnels underneath the city to look for help. There they found an old summoning circle along with other forbidden magic. They used the summoning circle to summon the patron [[The Ashen Harrower]]. Brynn wanted power and the patron granted her her wish. The Harrower's influence made her a leader under the patron. Helping spread it's effect. 
+Brynn was devastated after the attack. She felt like she let the whole village down allowing this to happen under her leadership. She became obsessed with finding a way to  protect the village and together with [[Sister Calvine Mossroot|Sister Calvine]] they went into the [[Tunnels under Littlevale|tunnels underneath the city]] to look for help. There they found an old summoning circle along with other forbidden magic. They used the summoning circle to summon the patron [[The Ashen Harrower]]. Brynn wanted power and the patron granted her her wish. The Harrower's influence made her a leader under the patron. Helping spread it's effect. 
 
 ## **Captain Brynn Aldershade** — Paladin 6 / Warlock 4
 

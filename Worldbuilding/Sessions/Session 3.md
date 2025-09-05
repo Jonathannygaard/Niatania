@@ -1,8 +1,23 @@
-## 1. **The Burnt Caravan**
+
+## Speaking to [[Warden Hadrik Dunwarren]]
+
+### Scene setup
+You enter [[The Warden’s Keep]] and are greeted by two guards. [[Sergeant Kaelen Duskrow]] and  [[Private Brunna “Bearcub” Ironfoot]]. 
+
+> "Raisende!?! Hva bringer dere hit?" - [[Private Brunna “Bearcub” Ironfoot]]
+> "Dere står ved Wardens keep, snakk deres sannhet.  Løgner varer ikke lenge her i Stoneford"- [[Sergeant Kaelen Duskrow]]
+
+
+After speaking with them you may be lead to [[Warden Hadrik Dunwarren]] he will quickly recognize the clothes you're wearing and either be suspicious, but happy to see [[Fenric Vardheim]]. After a little conversation he will give you a medallion that belonged to your mother. It was a family heirloom given to your mother by your father on their wedding day. [[Warden Hadrik Dunwarren]] got this after their death as no one was thought to be alive after the attack on your city. 
+
+
+![[20250901_1609_Gold DnD Pendant_remix_01k42sjw4ffz39chkanptxzwvc.png]]
+
+## The Burnt Caravan
 
 ### Scene Setup
 
-As the party approaches Stoneford, they see smoke still curling from the husk of a **merchant wagon**, half-burned and pulled off the road near the main gate. Several guards stand around, grim-faced, while a scribe takes notes. A few scavenger crows circle overhead.
+After waking up in Stoneford the party hears a lot of noise outside. They see smoke still curling from the husk of a **merchant wagon**, half-burned and pulled off the road near the main gate. Several guards stand around, grim-faced, while a scribe takes notes. A few scavenger crows circle overhead.
 
 ### Details
 
@@ -21,7 +36,7 @@ As the party approaches Stoneford, they see smoke still curling from the husk of
 - PCs can investigate the wreck → uncover bandit activity
 - The guards may hire them to track down the culprits.
 - If they follow the trail → they’ll find **signs of [[The Crimson Shroud]] scouts** watching the roads.
-## 2. **The Disappearance in the Quarry**
+## The Disappearance in the Quarry
 
 ### Scene Setup
 
@@ -38,11 +53,11 @@ As the party approaches Stoneford, they see smoke still curling from the husk of
 
 ### What’s Really Happening
 
-- The quarry collapsed into an **old subterranean passage**, part of the ancient tunnels tied to the banished gods.
-- Something has awakened — maybe:
-    - **Quarry Wights** (undead bound to the stone, whispering for release).
-    - Or a **Patron-spawned creature** feeding on workers and dragging them below.
-- Cultists of the **Ashen Vigil** may already know and are subtly pushing things toward chaos.
+- The quarry collapsed into an **old subterranean passage**, part of the [[Tunnels under Stoneford quarry|ancient tunnels tied to the banished gods.]]
+	- You find a ring of runes, used under [[Banishment day]] to trap [[Neryth & Kaelor|Neryth]]
+	- The power of [[Neryth & Kaelor|Neryth]] flowing through the tombs after the [[Summoning of The Ashen Harrower]], awakening the dead allowing them to walk the tunnels.
+	- [[Undead Spirits]]
+		- **DC Goal**: 16 to understand this is [[Neryth & Kaelor|Neryth]] using her powers to cast Summon undead.
 
 ### Hooks for PCs
 

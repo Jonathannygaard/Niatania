@@ -1,0 +1,7 @@
+- **Type:** A massive book bound in black stone with engraved glyphs.
+- **Powers:** Stores divine knowledge; reading it allows the user to block gods from interacting with mortals.
+- **Plot Hooks:**
+    - Scholars are mysteriously disappearing while attempting to decipher it.
+    - A godless cult wants to use it to create a mortal-only society.
+- **Location:** **The Ruins of Veritas**, a crumbled city swallowed by the desert.
+- **Area Description:** Sand-blasted streets, half-buried temples, and libraries collapsed into massive pits. Glyphs on walls glow at night, warning intruders.

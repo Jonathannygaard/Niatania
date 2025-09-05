@@ -1,6 +1,8 @@
 ![[Andy.png]]
 - Class: Ranger
 - **Rase:** Human **Alder:** 30 år **Hårefarge:** Kort brunt hår **Øyefarge:** Deep blue **Høyde:** 185 cm 
+- Next heir of [[The First Watch]].
+
 
 **Oppsummert bakhistorie:** Alexander Vardheim ble født i nord, blant rangers som voktet Grevskapet mot skrømter fra skyggene. Som gutt trosset han forbudet mot å følge de voksne i kamp, og hans ulydighet endte i tragedie: både landsbyen og hans egen far ble utslettet. Med farens bue i hånd og en livslang skyldfølelse på skuldrene, viet han livet til å bli skogens vokter – en skygge i mørket som jakter skrømter og holder Grevskapet trygt. Nå er Alexander ikke lenger gutten som ønsket å være mann – han er Skrømtvokteren i nord, en levende legende som sies å gli lydløst mellom trærne, og en bue slår ned som et lynnedslag i mørket.
 

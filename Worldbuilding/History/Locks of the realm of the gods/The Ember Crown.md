@@ -1,0 +1,7 @@
+- **Type:** A crown of blackened iron with smoldering embers that never die.
+- **Powers:** Grants control over fire and destruction; can incinerate divine manifestations attempting to enter the realm.
+- **Plot Hooks:**
+    - Local volcanoes have started behaving strangely, hinting at the crown awakening.
+    - A tyrant wants the crown to overthrow the king, unaware that using it could open a path for a god’s return.
+- **Location:** **Pyrestone Citadel**, a fortress built atop a dormant volcano. Lava flows through hidden channels beneath the citadel.
+- **Area Description:** The fortress is half in ruins, half maintained. Lava vents hiss and spark, corridors are sweltering, and stone stairways glow from beneath.

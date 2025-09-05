@@ -3,3 +3,5 @@
 - **Occupation:** Innkeeper of _[[The Bridgewater Inn]]_
 - **Appearance:** Plump, always smiling, dresses in green and gold.
 - **Notes:** Loves gossip. Knows every traveler who’s passed through. Plays both sides when it comes to secrets.
+Singel og freaky
+har en datter

@@ -1,0 +1,7 @@
+- **Type:** A silver shield engraved with runes that seem to shift in moonlight.
+- **Powers:** Creates zones of absolute silence, blocks divine magic in proximity, and can reflect spells back at the caster.
+- **Plot Hooks:**
+    - A village near its resting place has become mysteriously mute—no one can speak, but their minds are sharp.
+    - A cult seeks to steal the shield to silence the High Priest and summon a minor god back.
+- **Location:** Hidden in the **Silent Spire**, a towering obelisk in the middle of a foggy lake. The spire is carved with arcane sigils that make it nearly invisible at a distance.
+- **Area Description:** Fog thick as wool, with only the tip of the spire piercing the mist. The interior is echoing, empty, and impossible to map by sound.

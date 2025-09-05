@@ -81,6 +81,7 @@ At night, spectral figures dance silently around a bonfire that isn’t there.
 
 - A patch of land where the soil and stones have fused into smooth glass, stretching for yards.
 - At the center is a crater, filled with shards that glow faintly at dusk.
+- If you go down a cage here it will lead you to [[The Mirror of True Sight]]
 ### 14. **The Wandering Inn**
 
 - The PCs come across a cheery roadside tavern.
@@ -93,7 +94,7 @@ At night, spectral figures dance silently around a bonfire that isn’t there.
 
 - A massive bell lies cracked in a meadow.
 - If struck, it tolls with a sound that carries for miles — summoning something old that remembers its call. 
-- An [[Adult White Dragon]] lands in front of them.
+- An [[Ancient Red Dragon]] lands in front of them.
 - It doesn't attack, but just stands there for a little while looking around before leaving again. 
 
 ### 17. **The Watcher in the Lake**
@@ -120,7 +121,7 @@ A massive beehive hangs from an old oak, dripping with honey that glows faintly 
 
 A majestic stag with golden antlers crosses the party’s path.
 - Hunters believe it’s sacred — to kill it brings curses.
-	- [[Alexander Vardheim]]: DC 12 History or Nature. if hit he will recall the other Hunters from his village talking about [[The Golden Stag]] and how it should not be messed with.
+	- [[Fenric Vardheim]]: DC 12 History or Nature. if hit he will recall the other Hunters from his village talking about [[The Golden Stag]] and how it should not be messed with.
 - If they try and kill it it will run away and they will hear someone try to stop them.
 	- The person trying to stop them has been tracking the Stag for years.
 # **Later possibilities**
@@ -214,3 +215,10 @@ A flat slab of obsidian reflects not the viewer, but a twisted version of them.
 
 
 
+
+# Completed encounter
+### 1. **[[The Dancer’s Clearing]]** - Forrest above Stoneford
+
+At night, spectral figures dance silently around a bonfire that isn’t there.
+- Anyone joining the dance wakes with sore feet but inspiration.
+--- 

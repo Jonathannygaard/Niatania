@@ -1,0 +1,1 @@
+A fortress in the middle of the city where [[Warden Hadrik Dunwarren|Warden Hadrik]] and the militia reside.

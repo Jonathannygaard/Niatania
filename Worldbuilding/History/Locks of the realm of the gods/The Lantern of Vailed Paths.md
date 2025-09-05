@@ -1,0 +1,7 @@
+- **Type:** A lantern made of brass and crystal that glows with an ever-shifting light.
+- **Powers:** Creates and closes pathways between planes, blocks divine entry to the mortal world.
+- **Plot Hooks:**
+    - The lantern’s light is appearing in dreams, calling adventurers to a hidden realm.
+    - A villain plans to use it to open a portal and invite a god back—but only under their control.
+- **Location:** **The Hollow Grove**, a forest where trees move and paths vanish.
+- **Area Description:** Misty, dense forest; glowing plants illuminate paths, but paths shift as if the forest is alive. Strange whispers seem to come from the trees themselves.

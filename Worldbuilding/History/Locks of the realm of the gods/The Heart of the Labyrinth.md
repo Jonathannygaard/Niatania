@@ -1,0 +1,7 @@
+- **Type:** A glowing crystal, constantly shifting colors.
+- **Powers:** Controls spatial dimensions, prevents divine crossing into the mortal plane.
+- **Plot Hooks:**
+    - The labyrinth is expanding on its own; villages are vanishing inside.
+    - A group of adventurers must navigate its shifting corridors to secure the heart before a god’s cult reaches it.
+- **Location:** **The Shifting Labyrinth**, a desert of golden sands where entrances and exits change daily.
+- **Area Description:** Sand dunes that move like waves, hidden tunnels below the surface, and crystal obelisks marking dead ends.

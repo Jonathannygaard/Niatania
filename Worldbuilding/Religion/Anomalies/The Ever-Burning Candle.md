@@ -1,3 +1,4 @@
+
 - At a crossroads stands a simple candle on a wooden post.
 - It burns brightly, never going out — no matter the wind or rain.
 - The wick never shrinks.

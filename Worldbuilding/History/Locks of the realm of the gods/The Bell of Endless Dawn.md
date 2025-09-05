@@ -1,0 +1,7 @@
+- **Type:** A large bronze bell that never tarnishes, carved with sun and moon motifs.
+- **Powers:** Disrupts divine influence over time, freezes or accelerates cycles of day and night in its vicinity.
+- **Plot Hooks:**
+    - The bell has been stolen and time is flowing backward in a town.
+    - Someone wants to ring it to bring eternal daylight or night—threatening the world’s balance.
+- **Location:** **The Skyspire**, a tower floating on a cloud above the tallest mountain.
+- **Area Description:** High-altitude, frigid air with constant wind, ethereal bridges connecting floating platforms, and clouds that conceal entrances.

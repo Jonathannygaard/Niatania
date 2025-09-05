@@ -1,3 +1,4 @@
+Byen på vannet
 - **Location:** North of [[Greymoor]], along the [[Greymoor River]], nestled between rolling hills and old dwarven trade roads.
 - **Size & Role:** A **small fortified town**, built around a stone bridge that spans the river (hence its name). It’s smaller than [[Greymoor]] but strategically vital, since all trade from the dwarven holds must cross here.
 - **Atmosphere:** Practical, earthy, slightly suspicious of outsiders. Known for its strong stonework, hearty food, and frequent militia drills.

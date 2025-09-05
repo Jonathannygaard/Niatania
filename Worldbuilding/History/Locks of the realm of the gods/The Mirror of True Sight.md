@@ -1,0 +1,7 @@
+- **Type:** A polished obsidian mirror framed in silver vines.
+- **Powers:** Reveals illusions, lies, and disguises, and can reflect divine auras back into their source.
+- **Plot Hooks:**
+    - A noble seeks the mirror to expose hidden spies and cultists.
+    - Rumors claim the mirror shows glimpses of the gods’ realm—but at a terrible cost.
+- **Location:** **The Labyrinth of Reflections**, an underground maze of mirrored corridors where reality seems to twist.
+- **Area Description:** Endless mirrored halls; light behaves strangely, shadows move independently, and echoing footsteps confuse intruders.

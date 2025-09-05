@@ -1,0 +1,7 @@
+- **Type:** A feathered quill made from a divine raven’s plume.
+- **Powers:** Erases or rewrites sacred contracts, divine promises, and magical pacts.
+- **Plot Hooks:**
+    - A kingdom discovers forgotten treaties in its history books were altered by this quill.
+    - A scholar wants to use it to nullify a god’s protective curse—but risks attracting the deity’s attention.
+- **Location:** **The Silent Archive**, a vast library buried under ice and snow.
+- **Area Description:** Endless halls of frozen tomes, icy wind currents that can freeze intruders, and magical traps that erase memories of anyone who lingers too long.

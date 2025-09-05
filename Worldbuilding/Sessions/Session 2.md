@@ -4,7 +4,7 @@
 ### Night
 
 ---
-###  **[[Random encounters]]**  
+###  **[[Random encounters]]**  [[The Dancer’s Clearing]]
  - DC 16 History to remember someone from your past say these were called [[Anomalies]]. (Not for [[Wurf Wuff]])
 	 - 20: They are powerful arcane locations where time and space disrupts. Believed to be a way for they gods to show us they can still influence our world. (Need to explain banishment)
 ---
@@ -20,11 +20,6 @@
     - Test the PCs with ranged harassment before fleeing.
     - Leave behind a trap or false trail into a bandit den.
 - **Hook:** Following the scouts could reveal a hidden [[The Crimson Shroud]] camp near Stoneford.
----
-### Night 
-
----
-### **[[Random encounters]]**
 
 ---
 ### **The Strange Weather**

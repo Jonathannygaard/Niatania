@@ -19,7 +19,7 @@ After the first apple harvest in late August Littlevale holds the [[Apple festiv
 - [[Sila Windfern]]
 ## Wanted
 - [[Brother Bartholomew the Bottomless]]
-- [[Alexander Vardheim]]
+- [[Fenric Vardheim]]
 - [[Wurf Wuff]]
 ## 🌳 Aftermath in the Village
 
