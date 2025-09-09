@@ -213,6 +213,15 @@ A grand table stands in a clearing, laden with untouched food.
 
 A flat slab of obsidian reflects not the viewer, but a twisted version of them.
 
+###  24. **The Bell That Rang Alone**
+
+A church praying to [[Neryth & Kaelor|Neryth]]. The PC's can decide to sleep here. The bell will ring three times in the middle of the night. 
+- **NPCs:**
+    - **Brother Telric (Human Munk):** Believes it is a warning from the gods [[Neryth & Kaelor|Kaelor]]
+	- **Sister Mira (Elven Cleric):** Says the bell metal is “singing” because something stirs beneath the river.
+If the PC's dig deep enough they will find it's [[Thaloros]]. 
+
+
 
 
 

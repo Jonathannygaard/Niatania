@@ -1,4 +1,8 @@
+## 1. **The Painted Hands**
 
+- **Premise:** Overnight, strange **red handprints** have appeared on stone walls across Stoneford.
+- **Complication:** No one has seen the culprit, but the stains don’t wash away, and people fear it’s a curse.
+- **Twist:** The handprints were left by [[The Invisible Man]], who is desperately trying to lift the curse.
 ## Speaking to [[Warden Hadrik Dunwarren]]
 
 ### Scene setup
@@ -8,10 +12,11 @@ You enter [[The Warden’s Keep]] and are greeted by two guards. [[Sergeant Kael
 > "Dere står ved Wardens keep, snakk deres sannhet.  Løgner varer ikke lenge her i Stoneford"- [[Sergeant Kaelen Duskrow]]
 
 
-After speaking with them you may be lead to [[Warden Hadrik Dunwarren]] he will quickly recognize the clothes you're wearing and either be suspicious, but happy to see [[Fenric Vardheim]]. After a little conversation he will give you a medallion that belonged to your mother. It was a family heirloom given to your mother by your father on their wedding day. [[Warden Hadrik Dunwarren]] got this after their death as no one was thought to be alive after the attack on your city. 
+After speaking with them you may be lead to [[Warden Hadrik Dunwarren]] he will quickly recognize the clothes you're wearing and either be suspicious, but happy to see [[Fenric Vardheim]]. After a little conversation he will give you a ring that belonged to your mother. [[Warden Hadrik Dunwarren]] got this after their death as no one was thought to be alive after the attack on your city. 
 
+[[Warden Hadrik Dunwarren]] doesn't know anything about what attacked your village, but have heard rumors about another similar attack further north. 
 
-![[20250901_1609_Gold DnD Pendant_remix_01k42sjw4ffz39chkanptxzwvc.png]]
+![[Pasted image 20250909005719.png]]
 
 ## The Burnt Caravan
 
@@ -64,3 +69,12 @@ After waking up in Stoneford the party hears a lot of noise outside. They see sm
 - Families of the missing beg the PCs to investigate when guards refuse.
 - PCs exploring the fissure can uncover remnants of old summoning circles, linking back to the **banished gods’ imprisonment**.
 - Success could earn them Stoneford’s gratitude (or suspicion, if they delve too deep).
+
+## The Fishmonger’s Secret
+
+- **Premise:** At the Riverside Market, townsfolk have started whispering about **Ragan, the fishmonger**, whose fish never seem to spoil.
+- **Complication:** Some suspect witchcraft, others think smuggling. A few customers have fallen ill after eating his fish.
+- **NPCs:**
+    - **[[Ragan the Fishmonger]] (Human):** Nervous, evasive, but claims innocence.
+    - **[[Widow Selka]] (Halfling Herbalist):** Claims she saw Ragan “talking to the river” late at night.
+- **Twist:** Ragan made a bargain with a minor river spirit for abundance, but the spirit’s “gift” is slowly poisoning people.

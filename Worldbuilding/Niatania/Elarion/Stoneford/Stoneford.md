@@ -1,6 +1,6 @@
-Byen på vannet
+The city on water
 - **Location:** North of [[Greymoor]], along the [[Greymoor River]], nestled between rolling hills and old dwarven trade roads.
-- **Size & Role:** A **small fortified town**, built around a stone bridge that spans the river (hence its name). It’s smaller than [[Greymoor]] but strategically vital, since all trade from the dwarven holds must cross here.
+- **Size & Role:** A **small fortified town**, on a large stone bridge that spans the river. It’s smaller than [[Greymoor]] but strategically vital, since all trade from the dwarven cities must cross here.
 - **Atmosphere:** Practical, earthy, slightly suspicious of outsiders. Known for its strong stonework, hearty food, and frequent militia drills.
 - **Population:** ~1,200 (mostly humans and dwarves, with a scattering of halflings).
 
@@ -18,3 +18,6 @@ Byen på vannet
 - [[Thorn Two-Knives Kellor]]
 - [[Mayla Greenbrook]]
 - [[Garrick Flintmar]]
+- [[Private Brunna “Bearcub” Ironfoot]]
+- [[Sergeant Kaelen Duskrow]]
+
